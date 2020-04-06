@@ -1,0 +1,5 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+com.pedromachado.polyblock.removeads,published,managed_by_android,false,en_US;removeAds;removeAds,true,5990000,
+com.pedromachado.polyblock.buy100,published,managed_by_android,false,en_US;buyStars1;buyStars1,true,990000,
+com.pedromachado.polyblock.buy500,published,managed_by_android,false,en_US;buyStars2;buyStars2,true,3990000,
+com.pedromachado.polyblock.buy1000,published,managed_by_android,false,en_US;buyStars3;buyStars3,true,7990000,
